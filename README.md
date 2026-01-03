@@ -13,6 +13,7 @@ The steps below reproduce all artifacts from scratch: download data → label ev
 git clone https://github.com/yuqing-liii/Auditory-Climate-Graphs-for-Accessibility-Sonification-of-NOAA-Temperature-Trends-and-Extremes.git
 cd Auditory-Climate-Graphs-for-Accessibility-Sonification-of-NOAA-Temperature-Trends-and-Extremes
 ```
+You should create three new empty folders: processed, results, audio_samples.
 
 ### 1) Create environment + install dependencies
 You can use either `pip` or `conda`.
