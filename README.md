@@ -1,5 +1,5 @@
 # Auditory Climate Chart — Reproducible Sonification Pipeline
-0.0
+
 ## Project overview
 This repository implements a reproducible *auditory climate chart* pipeline that sonifies NOAA GHCN-Daily station TMAX/TMIN data and reproduces the paper’s Methods (sonification systems S0/S1/S2) and Results artifacts (RQ1 table, RQ2 sweep CSVs + figures, and aligned audio excerpts).
 
